@@ -1,0 +1,22 @@
+{
+    "name": "Robot",
+    "description": "A robot is a type of automated machine that can execute specific tasks with little or no human intervention and with speed and precision.",
+    "image": "https://ipfs.io/ipfs/QmYGQruGdv2JQ32tyrbg3eT8YF1oJJn8q1NgtiHDk1RdF4",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Power",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Efficiency",
+            "value": 8,
+            "max_value": 10
+        }
+    ]
+}

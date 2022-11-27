@@ -1,0 +1,22 @@
+{
+    "name": "Coocoo",
+    "description": "Coocoo is a cool person. We need to make ourself as him.",
+    "image": "https://ipfs.io/ipfs/QmRkDGd7gxJxbJ1kmWq5EQ2oyXz1enU4swWQmyM4Mbacv5",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Power",
+            "value": 8,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Coolness",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}
